@@ -6,9 +6,9 @@ Fragments; essays; scores; fractures: all housed here (—without prescription o
 
 ## Repository Structure
 
-- **README.md**, **LICENSE.md**, **NOTICE.md** & **FAIRUSE.md** —Introductions, guidelines, and terms of engagement.  
-- **/marginals** —The home of marginals: essays and definitive writings, available as Markdown source, PDF, and EPUB.  
-- **/marginalia** —The home of marginalia: reviews, fragments, and reactive commentary, also provided in triple format for accessibility and archival fidelity.
+- **README.md**, **LICENSE.md**, **NOTICE.md** & **FAIRUSE.md** (—introductions, guidelines, and terms of engagement).
+- **/treatises** (—essays and definitive writings, available as Markdown source, PDF, and EPUB).  
+- **/marginalia** (—reviews, fragments, and reactive commentary, also provided in triple format for accessibility and archival fidelity).
 
 ## License
 
@@ -24,4 +24,4 @@ This work is scholarly and philosophical in nature, intended for thought, dialog
 
 This work exists outside conventional publishing norms and resists commodification. It is not a product, but a living archive of thought, tension, and iteration. Please engage with it thoughtfully, and refrain from repackaging, fragmenting, or extracting it out of context.
 
-Attribution is not merely legal — it is relational. Cite with care.
+Attribution is not merely legal—it is relational. Cite with care.
