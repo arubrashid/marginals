@@ -6,9 +6,9 @@ Fragments; essays; scores; fractures: all housed here (—without prescription o
 
 ## REPOSITORY STRUCTURE 
 
-- **README.md**, **LICENSE.md**, **NOTICE.md** & **FAIRUSE.md** —Introductions, guidelines, and terms of engagement.  
-- **/marginals** —The home of marginals: essays and definitive writings, available as Markdown source, PDF, and EPUB.  
-- **/marginalia** —The home of marginalia: reviews, fragments, and reactive commentary, also provided in triple format for accessibility and archival fidelity.
+- **README.md**, **LICENSE.md**, **NOTICE.md** & **FAIRUSE.md** (—introductions, guidelines, and terms of engagement).
+- **/treatises** (—essays and definitive writings, available as Markdown source, PDF, and EPUB).  
+- **/marginalia** (—reviews, fragments, and reactive commentary, also provided in triple format for accessibility and archival fidelity).
 
 ## LICENSE 
 
