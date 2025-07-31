@@ -27,7 +27,7 @@ Ideas here unfold recursively, with internal references and latent interdependen
 
 ## CITATION AND RELATIONAL ATTRIBUTION
 
-Attribution is not merely legal — it is relational. Citation must be full, contextual, and entangled. Mere mention is insufficient.
+Attribution is not merely legal—it is relational. Citation must be full, contextual, and entangled. Mere mention is insufficient.
 
 As this archive operates as a network of recursive and interdependent texts, citation should reflect both local and systemic dimensions of its ideas. Isolated references flatten meaning.
 
@@ -35,9 +35,7 @@ Treat this archive as a living topology of thought, not inert content.
 
 ## PERMISSIONS
 
-To request permission for uses beyond what is granted under fair dealing (UK), fair use (US), or applicable international exceptions for criticism, review, and scholarship, please contact:
-
-**arubrashid@icloud.com**
+To request permission for uses beyond what is granted under fair dealing (UK), fair use (US), or applicable international exceptions for criticism, review, and scholarship, please contact: **arubrashid@icloud.com**
 
 ## DISCLAIMER
 
@@ -50,5 +48,4 @@ No endorsement is given to works cited; all references function as critical inte
 
 Use of this work to imply support, affiliation, or agreement—explicit or implied—with external projects, ideologies, or organisations is strictly disavowed.
 
-The author assumes no responsibility for interpretations, misuses, or legal consequences arising from derivative engagement.  
-Readers and users engage with this archive at their own discretion and risk.
+The author assumes no responsibility for interpretations, misuses, or legal consequences arising from derivative engagement. Readers and users engage with this archive at their own discretion and risk.

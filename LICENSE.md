@@ -12,7 +12,7 @@ Under the following terms:
 - **NonCommercial** — You may not use the material for commercial purposes.
 - **NoDerivatives** — If you remix, transform, or build upon the material, you may not distribute the modified version.
 
-No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+*No additional restrictions: You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.*
 
 This licence operates alongside and is reinforced by **UK intellectual property law**, including moral rights such as attribution, integrity, and objection to derogatory treatment (Copyright, Designs and Patents Act 1988); **US copyright law**, including fair use provisions under 17 U.S. Code §107; and relevant **international conventions** (including the Berne Convention and WIPO treaties).
 
